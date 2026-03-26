@@ -15,7 +15,7 @@ import loadingOn from '../assets/img/loadingon.png';
 const projectsData = [
   { id: 1, imageBefore: uggaOf, imageAfter: uggaOn, url: "https://ugga.com.mx" },
   { id: 2, imageBefore: interOf, imageAfter: interOn, url: "https://interchangecefid.com" },
-  { id: 3, imageBefore: kaizenOf, imageAfter: kaizenOn, url: "https://google.com" },
+  { id: 3, imageBefore: kaizenOf, imageAfter: kaizenOn, url: "https://elbuenparker.github.io/kaizentalent/#home" },
   { id: 4, imageBefore: loadingOf, imageAfter: loadingOn, url: "https://google.com" }
 ];
 
